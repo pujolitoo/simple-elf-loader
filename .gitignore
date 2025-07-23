@@ -1,0 +1,10 @@
+include/
+*.o
+*.elf
+*.so
+main
+loader
+
+.clangd
+.vscode/
+
